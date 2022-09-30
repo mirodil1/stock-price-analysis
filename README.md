@@ -9,7 +9,7 @@ Specifically, in this project, I did the following tasks:
 - Calculating simple daily percentage change
 - Calculating simple daily cumulative returns
 - Resampling data from daily to monthly return
-- Analzing distribution of returns
+- Analyzing distribution of returns
 - Performing moving-average calculations
 - Comparing average daily returns across stocks
 - Correlating stocks based on the daily percentage change of closing prices
